@@ -1,11 +1,13 @@
-# Título del trabajo
+# Título: Euroliga
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Se dara la opcion de elegir grupo, equipo y jugador y se mostraran sus datos.
+Tambien se podra hacer una quiniela eligiendo el ganador de cada partido y luego se mostrara la quiniela entera.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Alberto Díaz-Guerra Fernández. Usuario: albertodiaz-guerraf
+Angel Luis Olmedo Velasco. Usuario: 
 
 ## Objetivos del trabajo
 
-Lista de los objetivos que se persiguen con el trabajo propuesto.
+Uso de los recursos de programacion en C y aprenderlos. 
