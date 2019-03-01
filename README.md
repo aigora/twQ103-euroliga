@@ -10,4 +10,4 @@ Angel Luis Olmedo Velasco. Usuario:
 
 ## Objetivos del trabajo
 
-Uso de los recursos de programacion en C y aprenderlos. 
+Uso de los recursos de programacion en C. 
